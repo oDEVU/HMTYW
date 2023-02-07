@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HMTYW</string>
+    <string name="acronym">How much time you waste</string>
+    <string name="hyperlink">This app was created for Save Internet Day. It is fully open source, and you can look at source code at <a href='https://github.com/oDEVU/HMTYW'>Our Github</a>. This app was made by: \n\n-Eryk Roszkowski\n-Jakub Mróz\n-Wiktor Mania</string>
+</resources>
